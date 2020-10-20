@@ -1,0 +1,47 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Halifax", "Halifax\Halifax.vbproj", "{EF60864E-C240-47D1-A463-8ACBB09B9A57}"
+	ProjectSection(ProjectDependencies) = postProject
+		{CD824FFF-DDE9-4122-ACE7-A99748B831FA} = {CD824FFF-DDE9-4122-ACE7-A99748B831FA}
+	EndProjectSection
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "HLXClases", "HLXClases\HLXClases.vbproj", "{CD824FFF-DDE9-4122-ACE7-A99748B831FA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|Default = Debug|Default
+		Release|Any CPU = Release|Any CPU
+		Release|Default = Release|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EF60864E-C240-47D1-A463-8ACBB09B9A57}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EF60864E-C240-47D1-A463-8ACBB09B9A57}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EF60864E-C240-47D1-A463-8ACBB09B9A57}.Debug|Default.ActiveCfg = Debug|Any CPU
+		{EF60864E-C240-47D1-A463-8ACBB09B9A57}.Release|Any CPU.ActiveCfg = Debug|Any CPU
+		{EF60864E-C240-47D1-A463-8ACBB09B9A57}.Release|Default.ActiveCfg = Debug|Any CPU
+		{CD824FFF-DDE9-4122-ACE7-A99748B831FA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CD824FFF-DDE9-4122-ACE7-A99748B831FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CD824FFF-DDE9-4122-ACE7-A99748B831FA}.Debug|Default.ActiveCfg = Debug|Any CPU
+		{CD824FFF-DDE9-4122-ACE7-A99748B831FA}.Release|Any CPU.ActiveCfg = Debug|Any CPU
+		{CD824FFF-DDE9-4122-ACE7-A99748B831FA}.Release|Default.ActiveCfg = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|Default = Debug|Default
+		Release|Any CPU = Release|Any CPU
+		Release|Default = Release|Default
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|Default = Debug|Default
+		Release|Any CPU = Release|Any CPU
+		Release|Default = Release|Default
+	EndGlobalSection
+EndGlobal
